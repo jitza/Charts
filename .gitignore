@@ -1,3 +1,4 @@
-
-.png 
-.pro
+#Untract everything except for this files
+*
+!*.cpp
+!*.h
